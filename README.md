@@ -15,3 +15,5 @@ Intermediate Python, Numpy, Pandas, CSV, Kaggle, Data manipulation, Data cleanin
 1. Download Python File and CSV and add them to your Jupyter Notebooks.
 2. Make sure to update the import for the csv file!!
 3. Run cells as you go down!
+
+*Both the notebook and the python version of the code is uploaded and you may choose your convinence!
